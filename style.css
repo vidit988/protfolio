@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    font-family: 'Edu QLD Beginner', cursive;
+    background-color: aquamarine;
+}
+.line{
+    width: 40px;
+    background-color: black;
+    height: 5px;
+    margin: 20px auto;
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin: 5%;
+    border-radius: 9px;
+}
